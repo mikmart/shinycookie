@@ -16,7 +16,7 @@ useShinycookie <- function() {
       ),
       htmlDependency(
         name = "shinycookie",
-        version = "0.1.0",
+        version = packageVersion("shinycookie"),
         package = "shinycookie",
         src = "js",
         script = "shinycookie.js"
