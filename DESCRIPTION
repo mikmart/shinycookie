@@ -1,0 +1,14 @@
+Package: shinycookie
+Title: Interact with JavaScript Cookies in Shiny
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mikko", "Marttila", , "mikkmart@pm.me", role = c("aut", "cre"))
+Description: Get, set and remove JavaScript cookies in a Shiny app.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    htmltools,
+    shiny
