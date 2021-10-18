@@ -1,5 +1,5 @@
 Package: shinycookie
-Title: Interact with JavaScript Cookies in Shiny
+Title: JavaScript Cookies in Shiny
 Version: 0.0.0.9000
 Authors@R: 
     person("Mikko", "Marttila", , "mikkmart@pm.me", role = c("aut", "cre"))

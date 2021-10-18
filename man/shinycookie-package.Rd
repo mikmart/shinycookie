@@ -4,9 +4,17 @@
 \name{shinycookie-package}
 \alias{shinycookie}
 \alias{shinycookie-package}
-\title{shinycookie: Interact with JavaScript Cookies in Shiny}
+\title{shinycookie: JavaScript Cookies in Shiny}
 \description{
 Get, set and remove JavaScript cookies in a Shiny app.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mikmart/shinycookie}
+  \item Report bugs at \url{https://github.com/mikmart/shinycookie/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Mikko Marttila \email{mikkmart@pm.me}

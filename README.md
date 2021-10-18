@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/mikmart/shinycookie/workflows/R-CMD-check/badge.svg)](https://github.com/mikmart/shinycookie/actions)
 <!-- badges: end -->
 
 The goal of shinycookie is to let you interact with JavaScript cookies on the client from your Shiny server function without writing JavaScript. On the JavaScript side, interacting with cookies is handled with the [JavaScript Cookie](https://github.com/js-cookie/js-cookie) library.
