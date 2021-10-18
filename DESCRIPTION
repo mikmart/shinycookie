@@ -12,3 +12,5 @@ RoxygenNote: 7.1.2
 Imports: 
     htmltools,
     shiny
+URL: https://github.com/mikmart/shinycookie
+BugReports: https://github.com/mikmart/shinycookie/issues
